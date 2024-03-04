@@ -1,3 +1,3 @@
-This is mvp of how to reproduce issue
+This is mvp of how to reproduce issue when you try to set cookie in server component
 
-If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio
+https://nextjs.org/docs/app/api-reference/functions/cookies#cookiessetname-value-options
